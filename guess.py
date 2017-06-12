@@ -1,6 +1,6 @@
 import random
 from Tkinter import *
-num=random.randint(1,21)
+num=random.randint(1,20)
 root=None
 entryBox=None
 myText=None
